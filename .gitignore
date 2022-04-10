@@ -140,4 +140,5 @@ configs/secrets.yaml
 # add your env folder here if its there
 mlruns/
 
-
+## input files
+sample_imgs/
